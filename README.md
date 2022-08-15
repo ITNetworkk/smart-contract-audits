@@ -1,7 +1,7 @@
-# Smart Contract Audits By InterFi Network
+# Smart Contract Audits By ITNetwork Network
 ITNetwork provides blockchain security and assessment services. In this repository, we'll upload audited smart contracts, and projects. To request a smart contract audit, contact https://t.me/ITNetworkGlobal
 
-# InterFi's Echelon Auditing Methodology
+# ITNetwork's Echelon Auditing Methodology
 The aim of ITNetwork’s “Echelon” standard is to analyze the smart contract and identify the vulnerabilities and the hacks in the smart contract. Mentioned are the steps used by ECHELON-1 to assess the smart contract:
 
 # Solidity smart contract source code reviewal:
@@ -9,7 +9,7 @@ Review of the specifications, sources, and instructions provided to ITNetwork to
 
 Manual review of code, which is the process of reading source code line-byline to identify potential vulnerabilities.
 
-#Static, Manual, and Automated AI analysis:
+# Static, Manual, and Automated AI analysis:
 Test coverage analysis, which is the process of determining whether the test cases are covering the code and how much code is exercised when we run those test cases.
 
 Symbolic execution, which is analysing a program to determine what inputs causes each part of a program to execute.
